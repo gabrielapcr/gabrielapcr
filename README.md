@@ -1,7 +1,7 @@
 ###
 - 📘 estudando front-end, java e banco de dados 
 - 💻 linguagens de maior uso: C e python 
-- 👩🏼‍💼 idade: 20 anos 
+- 👩🏼‍💼 idade: 19 anos 
 - 📩 email: gabiregopa2@gmail.com
 - 🇱 linkedin: https://www.linkedin.com/in/gabriela-pacheco-cabral/ 
 ##    
